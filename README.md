@@ -23,24 +23,12 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td style="background-color: #0d1117; border: 2px solid #00FF66; padding: 16px;">
-      <div align="center">
-        <b><code>[ SYSTEM_SPECIFICATION_MANIFEST ]</code></b>
-      </div>
-      <hr style="border: 1px dashed #30363d; margin: 12px 0;">
-      <code>
-        <b>▸ OPERATOR   :</b> Ferdiaz Rifqi Prasida<br>
-        <b>▸ CALLSIGN   :</b> DIAWWDEV<br>
-        <b>▸ FOCUS      :</b> High-Availability Deployments, Media Streaming, Core Tools<br>
-        <b>▸ MANIFESTO  :</b> Deterministic logic over bloated frameworks.<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zero fluff. Zero synthetic marketing copy.<br>
-        <b>▸ LOCALE     :</b> ID_JKT // UTC+7
-      </code>
-    </td>
-  </tr>
-</table>
+/\_/\       OPERATOR   :: Ferdiaz Rifqi Prasida
+  ( o.o )      CALLSIGN   :: DIAWWDEV
+   > ^ <       OS / NODE  :: Linux x86_64 // Hardened Containers
+  /  ~  \      FOCUS      :: High-Availability, Streaming, Edge Infra
+ (   |   )     MANIFESTO  :: Deterministic logic over bloated frameworks.
+  `-----'      UPTIME     :: 99.98% // Deterministic Execution
 ---
 
 <h2>⚡ // 01. ACTIVE PRODUCTION DEPLOYMENTS</h2>
