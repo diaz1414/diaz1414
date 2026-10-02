@@ -23,12 +23,42 @@
 
 ---
 
-/\_/\       OPERATOR   :: Ferdiaz Rifqi Prasida
-  ( o.o )      CALLSIGN   :: DIAWWDEV
-   > ^ <       OS / NODE  :: Linux x86_64 // Hardened Containers
-  /  ~  \      FOCUS      :: High-Availability, Streaming, Edge Infra
- (   |   )     MANIFESTO  :: Deterministic logic over bloated frameworks.
-  `-----'      UPTIME     :: 99.98% // Deterministic Execution
+<table width="100%">
+  <thead>
+    <tr>
+      <th colspan="2" align="left">
+        <code>// SYSTEM_SPECIFICATION :: KERNEL_FETCH</code>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="30%" align="center" valign="middle">
+<pre>
+   /\_/\
+  ( o.o )
+   > ^ <
+  /  ~  \
+ (   |   )
+  `-----'
+<b>[CAT_DAEMON: OK]</b>
+</pre>
+      </td>
+      <td width="70%" valign="middle">
+        <code>
+          <b>OPERATOR   :</b> Ferdiaz Rifqi Prasida<br>
+          <b>CALLSIGN   :</b> DIAWWDEV<br>
+          <b>NODE / OS  :</b> Linux x86_64 // Hardened Containers<br>
+          <b>FOCUS      :</b> High-Availability, Streaming, Edge Infra<br>
+          <b>MANIFESTO  :</b> Deterministic logic over bloated frameworks.<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zero fluff. Zero synthetic marketing copy.<br>
+          <b>UPTIME     :</b> 99.98% // Deterministic Execution
+        </code>
+      </td>
+    </tr>
+  </tbody>
+</table>
+     
 ---
 
 <h2>⚡ // 01. ACTIVE PRODUCTION DEPLOYMENTS</h2>
