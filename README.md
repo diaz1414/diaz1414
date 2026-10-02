@@ -23,41 +23,13 @@
 
 ---
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th colspan="2" align="left">
-        <code>// SYSTEM_SPECIFICATION :: KERNEL_FETCH</code>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="28%" align="center" valign="top">
-<pre>
-   /\_/\
-  ( o.o )
-   > ^ <
-  /  ~  \
- (   |   )
-  `-----'
-<b>[CAT_DAEMON: OK]</b>
-</pre>
-      </td>
-      <td width="72%" valign="top">
-<pre>
-<b>OPERATOR</b>  :: Ferdiaz Rifqi Prasida
-<b>CALLSIGN</b>  :: DIAWWDEV
-<b>NODE/OS</b>   :: Linux x86_64 // Hardened Containers
-<b>FOCUS</b>     :: High-Availability, Streaming, Edge Infra
-<b>MANIFESTO</b> :: Deterministic logic over bloated frameworks.
-             Zero fluff. Zero synthetic marketing copy.
-<b>UPTIME</b>    :: 99.98% // Deterministic Execution
-</pre>
-      </td>
-    </tr>
-  </tbody>
-</table>
+### `// SYSTEM SPECIFICATION`
+
+- **Operator** : Ferdiaz Rifqi Prasida (`DIAWWDEV`)
+- **Node & OS** : Linux x86_64 // Hardened Containers
+- **Core Focus** : High-Availability Deployments, Streaming, Edge Infrastructure
+- **Manifesto** : Deterministic logic over bloated frameworks. Zero fluff.
+- **Availability** : 99.98% uptime // Production ready
      
 ---
 
