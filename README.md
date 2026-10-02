@@ -3,16 +3,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/diawwdev">
+  <a href="[https://github.com/diawwdev](https://github.com/diaz1414/)">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF66&borderColor=00FF66" height="35"/>
   </a>
   <a href="https://diaww.my.id">
     <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=google-chrome&logoColor=00FF66&borderColor=00FF66" height="35"/>
   </a>
-  <a href="mailto:contact@diaww.my.id">
+  <a href="mailto:ferdiazprasida@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=minutemailer&logoColor=00FF66&borderColor=00FF66" height="35"/>
   </a>
-  <a href="https://t.me/diawwdev">
+  <a href="https://t.me/freaklilbad">
     <img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=00FF66&borderColor=00FF66" height="35"/>
   </a>
 </p>
