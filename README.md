@@ -1,4 +1,3 @@
-curl -sL https://gist.githubusercontent.com/raw/README.md -o README.md 2>/dev/null || cat << 'EOF' > README.md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&text=FERDIAZ%20RIFQI%20PRASIDA%20//%20DIAWWDEV&fontSize=26&fontAlignY=50&fontColor=00FF66&height=110&stroke=00FF66&strokeWidth=2"/>
 </p>
@@ -26,9 +25,13 @@ curl -sL https://gist.githubusercontent.com/raw/README.md -o README.md 2>/dev/nu
 ========================= SYSTEM SPECIFICATION =========================
 
 OPERATOR   : Ferdiaz Rifqi Prasida
+
 CALLSIGN   : DIAWWDEV
+
 FOCUS      : High-Availability Deployments, Media Streaming, Core Tools
+
 MANIFESTO  : Deterministic logic over bloated frameworks.
+
 Zero fluff. Zero synthetic marketing copy.
 
 ---
