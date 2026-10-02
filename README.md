@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://github.com/diawwdev](https://github.com/diaz1414/)">
+  <a href="https://github.com/diaz1414/">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF66&borderColor=00FF66" height="35"/>
   </a>
   <a href="https://diaww.my.id">
