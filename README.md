@@ -42,11 +42,11 @@ Zero fluff. Zero synthetic marketing copy.
 
 <pre>
 [LIVE ENDPOINTS]
-├── 01. TV STREAMING PLATFORM      ──>> <a href="https://tv.ykn.my.id/">https://tv.ykn.my.id/</a>
-├── 02. ON-DEMAND MOVIES HUB       ──>> <a href="https://movies.ykn.my.id/">https://movies.ykn.my.id/</a>
-├── 03. CLOUD & WEB HOSTING PORTAL ──>> <a href="https://hosting.diaww.my.id/">https://hosting.diaww.my.id/</a>
+├── 01. FREE LIVE SPORTS STREAMING ──>> <a href="https://tv.ykn.my.id/">https://tv.ykn.my.id/</a>
+├── 02. ON-DEMAND MOVIES & CINEMA  ──>> <a href="https://movies.ykn.my.id/">https://movies.ykn.my.id/</a>
+├── 03. PTERODACTYL CLOUD HOSTING  ──>> <a href="https://hosting.diaww.my.id/">https://hosting.diaww.my.id/</a>
 ├── 04. NETWORK & URL BYPASS TOOL  ──>> <a href="https://bypass.diaww.my.id/">https://bypass.diaww.my.id/</a>
-└── 05. DATA DISCOVERY ENGINE      ──>> <a href="https://5-leak.diaww.my.id/">https://5-leak.diaww.my.id/</a>
+└── 05. FIVEM & GTA V ASSET LEAKS  ──>> <a href="https://5-leak.diaww.my.id/">https://5-leak.diaww.my.id/</a>
 </pre>
 
 <table>
@@ -61,21 +61,21 @@ Zero fluff. Zero synthetic marketing copy.
   <tbody>
     <tr>
       <td><code>01</code></td>
-      <td><b>LIVE STREAMING PORTAL</b></td>
+      <td><b>FREE LIVE SPORTS STREAMING</b></td>
       <td><a href="https://tv.ykn.my.id/"><code>tv.ykn.my.id</code></a></td>
-      <td>Platform distribusi live broadcast dengan latensi rendah dan parsing playlist terstruktur (Optimized buffer handling, CORS routing, resilient fallback proxy).</td>
+      <td>Platform streaming siaran langsung olahraga (sepak bola, balap, event olahraga dunia) tanpa biaya dengan latensi rendah, anti-buffer stream engine, dan resilient edge CORS routing.</td>
     </tr>
     <tr>
       <td><code>02</code></td>
-      <td><b>ON-DEMAND MEDIA HUB</b></td>
+      <td><b>ON-DEMAND MOVIES & CINEMA</b></td>
       <td><a href="https://movies.ykn.my.id/"><code>movies.ykn.my.id</code></a></td>
-      <td>Direktori dan streaming playback katalog multimedia berbasis web responsif (CDN cache integration, dynamic metadata extraction, lightweight player UI).</td>
+      <td>Katalog pemutaran film box office dan serial gratis berbasis web responsif, dynamic CDN cache delivery, zero-lag web player, dan pembaruan database berkala.</td>
     </tr>
     <tr>
       <td><code>03</code></td>
-      <td><b>HOSTING & SERVER INFRASTRUCTURE</b></td>
+      <td><b>PTERODACTYL CLOUD HOSTING</b></td>
       <td><a href="https://hosting.diaww.my.id/"><code>hosting.diaww.my.id</code></a></td>
-      <td>Panel manajemen provisioning server, container runtime, dan alokasi resource komputasi (Multi-tenant isolation, reverse-proxy automation, secure resource sandboxing).</td>
+      <td>Infrastruktur penyedia hosting berbasis panel Pterodactyl untuk deploy game server (Minecraft, SA-MP, FiveM), bot hosting (NodeJS/Python/Discord), dan web container terisolasi.</td>
     </tr>
     <tr>
       <td><code>04</code></td>
@@ -85,9 +85,9 @@ Zero fluff. Zero synthetic marketing copy.
     </tr>
     <tr>
       <td><code>05</code></td>
-      <td><b>DATA & INTELLIGENCE REPOSITORY</b></td>
+      <td><b>FIVEM & GTA V ASSET LEAKS</b></td>
       <td><a href="https://5-leak.diaww.my.id/"><code>5-leak.diaww.my.id</code></a></td>
-      <td>Search engine dan archive reader untuk audit keamanan, dataset indexer, dan log parsing (Fast-indexing query filters, dump parsing engine, rate-limited public API).</td>
+      <td>Direktori arsip download leak asset FiveM & GTA 5 terlengkap: Custom Scripts (ESX/QBCore), MLO Interior Maps, EUP Clothing packs, modifikasi kendaraan, dan server resources terorganisir.</td>
     </tr>
   </tbody>
 </table>
