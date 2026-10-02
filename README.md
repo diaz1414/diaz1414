@@ -33,7 +33,7 @@
   </thead>
   <tbody>
     <tr>
-      <td width="30%" align="center" valign="middle">
+      <td width="28%" align="center" valign="top">
 <pre>
    /\_/\
   ( o.o )
@@ -44,16 +44,16 @@
 <b>[CAT_DAEMON: OK]</b>
 </pre>
       </td>
-      <td width="70%" valign="middle">
-        <code>
-          <b>OPERATOR   :</b> Ferdiaz Rifqi Prasida<br>
-          <b>CALLSIGN   :</b> DIAWWDEV<br>
-          <b>NODE / OS  :</b> Linux x86_64 // Hardened Containers<br>
-          <b>FOCUS      :</b> High-Availability, Streaming, Edge Infra<br>
-          <b>MANIFESTO  :</b> Deterministic logic over bloated frameworks.<br>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zero fluff. Zero synthetic marketing copy.<br>
-          <b>UPTIME     :</b> 99.98% // Deterministic Execution
-        </code>
+      <td width="72%" valign="top">
+<pre>
+<b>OPERATOR</b>  :: Ferdiaz Rifqi Prasida
+<b>CALLSIGN</b>  :: DIAWWDEV
+<b>NODE/OS</b>   :: Linux x86_64 // Hardened Containers
+<b>FOCUS</b>     :: High-Availability, Streaming, Edge Infra
+<b>MANIFESTO</b> :: Deterministic logic over bloated frameworks.
+             Zero fluff. Zero synthetic marketing copy.
+<b>UPTIME</b>    :: 99.98% // Deterministic Execution
+</pre>
       </td>
     </tr>
   </tbody>
