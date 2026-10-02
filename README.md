@@ -158,10 +158,10 @@ DB Integrity : Daily WAL snapshots & decoupled storage
 
 <pre>
 CONNECT_VECTOR:
-├── GITHUB   : [https://github.com/diaz1414](https://github.com/diaz1414)
-├── WEBSITE  : [https://diaww.my.id](https://diaww.my.id)
-├── EMAIL    : ferdiazprasida@gmail.com
-└── TELEGRAM : [@freaklilbad](https://t.me/freaklilbad)
+├── GITHUB   : <a href="https://github.com/diaz1414">https://github.com/diaz1414</a>
+├── WEBSITE  : <a href="https://diaww.my.id">https://diaww.my.id</a>
+├── EMAIL    : <a href="mailto:ferdiazprasida@gmail.com">ferdiazprasida@gmail.com</a>
+└── TELEGRAM : <a href="https://t.me/freaklilbad">@freaklilbad</a>
 </pre>
 
 ---
