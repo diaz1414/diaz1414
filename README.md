@@ -22,7 +22,7 @@
 > **ZONE:** UTC+7 [INDONESIA]
 
 ---
-========================= SYSTEM SPECIFICATION =========================
+         ========================= SYSTEM SPECIFICATION =========================
 
 OPERATOR   : Ferdiaz Rifqi Prasida
 
