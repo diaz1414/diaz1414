@@ -154,3 +154,15 @@ DB Integrity : Daily WAL snapshots & decoupled storage
 ---
 
 <h2>📡 // 05. DIRECT COMMUNICATIONS</h2>
+
+CONNECT_VECTOR:
+├── GITHUB   : https://github.com/diaz1414
+├── WEBSITE  : https://diaww.my.id
+├── EMAIL    : ferdiazprasida@gmail.com
+└── TELEGRAM : @freaklilbad
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&text=TERMINAL%20DISCONNECTED%20//%20PROCESS%20EXITED%20WITH%20CODE%200&fontSize=14&fontAlignY=50&fontColor=00FF66&height=40&stroke=00FF66&strokeWidth=1"/>
+</p>
