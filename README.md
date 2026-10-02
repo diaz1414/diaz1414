@@ -162,7 +162,7 @@ CONNECT_VECTOR:
 ├── WEBSITE  : https://diaww.my.id
 ├── EMAIL    : ferdiazprasida@gmail.com
 └── TELEGRAM : @freaklilbad
-</pre>pre>
+</pre>
 
 ---
 
